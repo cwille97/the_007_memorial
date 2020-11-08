@@ -7541,26 +7541,6 @@ video {
   --bg-opacity: 1;
 }
 
-.group:hover .group-hover\:bg-opacity-0 {
-  --bg-opacity: 0;
-}
-
-.group:hover .group-hover\:bg-opacity-25 {
-  --bg-opacity: 0.25;
-}
-
-.group:hover .group-hover\:bg-opacity-50 {
-  --bg-opacity: 0.5;
-}
-
-.group:hover .group-hover\:bg-opacity-75 {
-  --bg-opacity: 0.75;
-}
-
-.group:hover .group-hover\:bg-opacity-100 {
-  --bg-opacity: 1;
-}
-
 .bg-bottom {
   background-position: bottom;
 }
@@ -28672,26 +28652,6 @@ video {
     --bg-opacity: 1;
   }
 
-  .group:hover .sm\:group-hover\:bg-opacity-0 {
-    --bg-opacity: 0;
-  }
-
-  .group:hover .sm\:group-hover\:bg-opacity-25 {
-    --bg-opacity: 0.25;
-  }
-
-  .group:hover .sm\:group-hover\:bg-opacity-50 {
-    --bg-opacity: 0.5;
-  }
-
-  .group:hover .sm\:group-hover\:bg-opacity-75 {
-    --bg-opacity: 0.75;
-  }
-
-  .group:hover .sm\:group-hover\:bg-opacity-100 {
-    --bg-opacity: 1;
-  }
-
   .sm\:bg-bottom {
     background-position: bottom;
   }
@@ -49735,26 +49695,6 @@ video {
   }
 
   .md\:focus\:bg-opacity-100:focus {
-    --bg-opacity: 1;
-  }
-
-  .group:hover .md\:group-hover\:bg-opacity-0 {
-    --bg-opacity: 0;
-  }
-
-  .group:hover .md\:group-hover\:bg-opacity-25 {
-    --bg-opacity: 0.25;
-  }
-
-  .group:hover .md\:group-hover\:bg-opacity-50 {
-    --bg-opacity: 0.5;
-  }
-
-  .group:hover .md\:group-hover\:bg-opacity-75 {
-    --bg-opacity: 0.75;
-  }
-
-  .group:hover .md\:group-hover\:bg-opacity-100 {
     --bg-opacity: 1;
   }
 
@@ -70804,26 +70744,6 @@ video {
     --bg-opacity: 1;
   }
 
-  .group:hover .lg\:group-hover\:bg-opacity-0 {
-    --bg-opacity: 0;
-  }
-
-  .group:hover .lg\:group-hover\:bg-opacity-25 {
-    --bg-opacity: 0.25;
-  }
-
-  .group:hover .lg\:group-hover\:bg-opacity-50 {
-    --bg-opacity: 0.5;
-  }
-
-  .group:hover .lg\:group-hover\:bg-opacity-75 {
-    --bg-opacity: 0.75;
-  }
-
-  .group:hover .lg\:group-hover\:bg-opacity-100 {
-    --bg-opacity: 1;
-  }
-
   .lg\:bg-bottom {
     background-position: bottom;
   }
@@ -91867,26 +91787,6 @@ video {
   }
 
   .xl\:focus\:bg-opacity-100:focus {
-    --bg-opacity: 1;
-  }
-
-  .group:hover .xl\:group-hover\:bg-opacity-0 {
-    --bg-opacity: 0;
-  }
-
-  .group:hover .xl\:group-hover\:bg-opacity-25 {
-    --bg-opacity: 0.25;
-  }
-
-  .group:hover .xl\:group-hover\:bg-opacity-50 {
-    --bg-opacity: 0.5;
-  }
-
-  .group:hover .xl\:group-hover\:bg-opacity-75 {
-    --bg-opacity: 0.75;
-  }
-
-  .group:hover .xl\:group-hover\:bg-opacity-100 {
     --bg-opacity: 1;
   }
 
