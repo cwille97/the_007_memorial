@@ -11,7 +11,7 @@ module.exports = {
     },
   },
   variants: {
-    backgroundOpacity: ['responsive', 'hover', 'focus', 'group-hover'],
+    cursor: ['responsive', 'hover', 'focus'],
   },
   plugins: [],
 }

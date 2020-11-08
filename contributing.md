@@ -7,7 +7,7 @@ I know there are Bond actors or significant figures who have passed and are not 
 3. Using the following card template, replace the $ indicated words with the corresponding information.
 
 ```
-<div class="bond-card border-gray-700 border-2 rounded shadow-xl h-64 relative object-center flex items-center justify-center">
+<div id="$link_to_wikipedia" onclick="window.open(this.id)" class="hover:cursor-pointer bond-card border-gray-700 border-2 rounded shadow-xl h-64 relative object-center flex items-center justify-center">
                     <img class="card-image h-full object-center absolute" src="../imgs/$first_last.jpg" alt="$first $last as (character) $first $last">
                     <p class="font-sans text-xl relative" style="display: none;">Sean Connery</p>
                     <p class="font-sans relative" style="display: none;">(character) $first $last</p>
