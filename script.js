@@ -1,4 +1,4 @@
-$(document).ready(() => {
+jQuery(() => {
     $(".bond-card").hover(function() {
         $(this).children("img").css("opacity", "0.3");
         $(this).children("p").css("display", "block");
